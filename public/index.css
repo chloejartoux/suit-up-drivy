@@ -25,12 +25,19 @@ a
 	font-style:italic;
 }
 */
+
+car
+{
+	margin: 50px auto 0;
+	
+	
+}
 .model
 {
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align: center;
+	text-align:center;
 }
 
 .price-by-day
@@ -38,7 +45,7 @@ a
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align: center;
+	text-align:center;
 }
 
 .price-by-km
@@ -46,7 +53,7 @@ a
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align: center;
+	text-align:center;
 }
 
 .begin
@@ -54,7 +61,7 @@ a
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align: center;
+	text-align:center;
 }
 
 .end
@@ -62,7 +69,7 @@ a
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align: center;
+	text-align:center;
 }
 
 .distance
@@ -70,12 +77,12 @@ a
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align: center;
+	text-align:center;
 }
 .act
 {
-	color : white;
-	text-align:bottom,left;
+	color : black;
+	
 	font-size: 25px;
 	font-weight:bold;
 	font-family: "Times New Roman", Times, serif;
@@ -86,7 +93,7 @@ a
 
 .bouton
 {
-	background-color: #4CAF50; /* Green */
+	background-color: #4e4b40; /* Green */
     border: 2px solid black;
 	border-radius: 4px;
     color: white;
@@ -97,15 +104,22 @@ a
     font-size: 16px;
 }
 
+.bouton:hover
+{
+	text-decoration: none;
+	color: #ae9b46;
+	font-weight: italic;
+}
 
 body 
 {
-	background-image:url("car_on_road-wallpaper-1920x1080.jpg");
+	background-image:url("2014-mdx-exterior-sh-awd-with-technology-package-in-silver-moon-sunset-4_hires.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
 	margin-right: 300px;
 	margin-left: 300px
+	
 }
 .drivy
 {
