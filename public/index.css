@@ -1,0 +1,121 @@
+/*body
+{
+	background-image:url("spatial.jpeg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	color: white;
+	margin-right: 300px;
+	margin-left: 300px
+}
+
+.introduction
+{
+	border: 3px blue solid; 
+}
+a:hover
+{
+	text-decoration: underline;
+	color: blue;
+	font-weight:bold;
+}
+a
+{
+	text-decoration:none;
+	color:white;
+	font-style:italic;
+}
+*/
+.model
+{
+	color : blue;
+    border: 2px solid black;
+    border-radius: 4px;
+	text-align: center;
+}
+
+.price-by-day
+{
+	color : blue;
+    border: 2px solid black;
+    border-radius: 4px;
+	text-align: center;
+}
+
+.price-by-km
+{
+	color : blue;
+    border: 2px solid black;
+    border-radius: 4px;
+	text-align: center;
+}
+
+.begin
+{
+	color : blue;
+    border: 2px solid black;
+    border-radius: 4px;
+	text-align: center;
+}
+
+.end
+{
+	color : blue;
+    border: 2px solid black;
+    border-radius: 4px;
+	text-align: center;
+}
+
+.distance
+{
+	color : blue;
+    border: 2px solid black;
+    border-radius: 4px;
+	text-align: center;
+}
+.act
+{
+	color : white;
+	text-align:bottom,left;
+	font-size: 25px;
+	font-weight:bold;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+	
+
+.bouton
+{
+	background-color: #4CAF50; /* Green */
+    border: 2px solid black;
+	border-radius: 4px;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+}
+
+
+body 
+{
+	background-image:url("car_on_road-wallpaper-1920x1080.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	margin-right: 300px;
+	margin-left: 300px
+}
+.drivy
+{
+	text-align: center;
+	font-size: 100px;
+	color:white;
+	text-transform: uppercase;
+}
+
+
+
+
+
