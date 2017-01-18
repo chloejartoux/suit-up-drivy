@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
+	<meta charset="utf-8"/>
     <title>CSS/HTML Workshop with Drivy</title>
+	<link rel="stylesheet" href="index.css"/>
   </head>
   <body>
+	<p class="drivy">
+		DRIVY
+	</p>
     <div id="car">
       <input class="model" type="text" placeholder="Car model"/>
       <input class="price-by-day" type="number" placeholder="Price by day"/>
@@ -15,8 +20,8 @@
       <input class="distance" type="number" placeholder="Distance in km"/>
       <input class="option" type="checkbox" placeholder="Deductible option"/>
     </div>
-    <button id="compute">Compute</button>
-    <div id="actors"></div>
+    <button id="compute" class="bouton">Compute</button>
+    <div id="actors" class="act"></div>
     <script id="template" type="x-tmpl-mustache">
       {{#actors}}
         <div class="actor">
