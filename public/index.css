@@ -28,17 +28,19 @@
 {
 	position:relative;
 	top:80px;
-	margin-left: 400px;
+	margin-left: 375px;
 	max-width: 500px;
 }
+
 
 .act
 {
 	color : black;
 	text-align:bottom,left;
 	font-size: 25px;
-	font-weight:normal;
-	font-family: "Calibri";
+	font-weight:bold;
+	font-family: "Century Schoolbook";
+	
 	
 }
 
@@ -126,7 +128,7 @@
 
 body 
 {
-	background-image:url("imagesite3.jpg");
+	background-image:url("imagesite2.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
