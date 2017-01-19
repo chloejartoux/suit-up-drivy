@@ -1,51 +1,88 @@
-/*body
+.drivy
 {
-	background-image:url("spatial.jpeg");
-	background-repeat:no-repeat;
-	background-size:100%;
-	color: white;
-	margin-right: 300px;
-	margin-left: 300px
-}
-
-.introduction
-{
-	border: 3px blue solid; 
-}
-a:hover
-{
-	text-decoration: underline;
-	color: blue;
-	font-weight:bold;
-}
-a
-{
-	text-decoration:none;
+	text-align: center;
+	font-size: 120px;
 	color:white;
-	font-style:italic;
+	font-family:"Arial Rounded MT";
+	
 }
-*/
-
-car
+#car
 {
-	margin: 50px auto 0;
 	
+	margin-left: 250px;
+	max-width: 500px;
+}
+#rental
+{
+	margin-left: 250px;
+	max-width: 500px;
+}
+#compute
+{
+	position:relative;
+	top:50px;
+	margin-left: 400px;
+	max-width: 500px;
+}
+#actors
+{
+	position:relative;
+	top:80px;
+	margin-left: 400px;
+	max-width: 500px;
+}
+
+.act
+{
+	color : black;
+	text-align:bottom,left;
+	font-size: 25px;
+	font-weight:normal;
+	font-family: "Calibri";
 	
 }
+
+.bouton
+{
+	
+	background-color: #737b7b; /* Green */
+    border: 2px solid black;
+	border-radius: 4px;
+    color: white;  
+    text-align: center;
+    text-decoration: none;
+    padding:10px 38px;
+    font-size: 16px;
+}
+
+.bouton:hover
+{
+	background-color: #cad1d1; /* Green */
+    border: 2px solid black;
+	border-radius: 4px;
+    color: black;  
+    text-align: center;
+    text-decoration: none;
+    padding:10px 38px;
+    font-size: 16px;
+	
+}
+
 .model
 {
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align:center;
+	text-align: center;
+	
 }
-
 .price-by-day
 {
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align:center;
+	text-align: center;
+	
 }
 
 .price-by-km
@@ -53,7 +90,8 @@ car
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align:center;
+	text-align: center;
+	
 }
 
 .begin
@@ -61,7 +99,8 @@ car
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align:center;
+	text-align: center;
+	
 }
 
 .end
@@ -69,7 +108,8 @@ car
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align:center;
+	text-align: center;
+	
 }
 
 .distance
@@ -77,57 +117,23 @@ car
 	color : blue;
     border: 2px solid black;
     border-radius: 4px;
-	text-align:center;
-}
-.act
-{
-	color : black;
+	text-align: center;
 	
-	font-size: 25px;
-	font-weight:bold;
-	font-family: "Times New Roman", Times, serif;
 }
 
 
-	
 
-.bouton
-{
-	background-color: #4e4b40; /* Green */
-    border: 2px solid black;
-	border-radius: 4px;
-    color: white;
-    padding: 10px 27px;
-    text-align: center;
-    text-decoration: none;
-    
-    font-size: 16px;
-}
-
-.bouton:hover
-{
-	text-decoration: none;
-	color: #ae9b46;
-	font-weight: italic;
-}
 
 body 
 {
-	background-image:url("2014-mdx-exterior-sh-awd-with-technology-package-in-silver-moon-sunset-4_hires.jpg");
+	background-image:url("imagesite3.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
 	margin-right: 300px;
 	margin-left: 300px
-	
 }
-.drivy
-{
-	text-align: center;
-	font-size: 100px;
-	color:white;
-	text-transform: uppercase;
-}
+
 
 
 
